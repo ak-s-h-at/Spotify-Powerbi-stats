@@ -28,8 +28,11 @@ This project visualizes Spotify analytical insights using real data collected fr
 
 ## 📂 Files Included
 ├── spotify_cleaned_project.py # Python script for API fetch and cleaning
+
 ├── spotify_data/ # Exported CSVs: tracks, albums, artists etc. (later stored in SQL DB and cleaned using Stored Procs)
+
 ├── Spotify_Analytical_Report.pbix # Final Power BI Dashboard
+
 └── README.md # Project documentation
 
 
